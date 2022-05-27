@@ -33,5 +33,6 @@
     },
     "autoload": {
         "psr-4": { "Fastly\\" : "lib/" }
-    }
+    },
+    "minimum-stability": "dev"
 }
